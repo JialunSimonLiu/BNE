@@ -1,7 +1,7 @@
 # Brazil-nut-effect
 ![Alt Text](https://github.com/JialunSimonLiu/Brazil-nut-effect/blob/main/Picture.png)
 
-**The initial/basic code is programmed as follows to investigate the brazil nut effect:**
+## The initial/basic code is programmed as follows to investigate the brazil nut effect:
 
 **1. Initial conditions.** In a two dimensional system, particles are set to have circular shapes and never overlap with each other.
 **2. Equilibrium simulation after ‘pouring’** The Monte Carlo method was implemented to demonstrate the process of ‘pouring’, a
